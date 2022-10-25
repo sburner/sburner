@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sburner
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning GO, solidity
-- 💞️ I’m looking to collaborate on blockchain tech
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to learn more
 - 📫 How to reach me: msg me here
 
 <!---
