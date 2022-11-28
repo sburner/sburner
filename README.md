@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sburner
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to learn more
-- 📫 How to reach me: msg me here
-
-<!---
-sburner/sburner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, my name is Salahudin, father, husband, interdimensional being, love doing sports until involuntary bodily reactions come along
+- 👀 I am interested in a plethora of topics
+- 🌱 Learning is the way
+- 📫 How to reach me: msg me here or on keybase @salko
+- 
