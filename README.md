@@ -2,4 +2,3 @@
 - 👀 I am interested in a plethora of topics
 - 🌱 Learning is the way
 - 📫 How to reach me: msg me here or on keybase @salko
-- 
